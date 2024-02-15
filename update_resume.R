@@ -12,7 +12,7 @@ rmarkdown::render(input = "resume.Rmd",
                     doctype = "HTML"
                   )
             )
-
+ 
 rmarkdown::render(input = "resume.Rmd",
                   output_file = "mleary_resume_print_to_pdf.html",
                   output_options = list(
