@@ -149,7 +149,7 @@ Main
 ================================================================================
 
 
-Matthew Leary {#title}
+Shreyash Deshmukh {#title}
 --------------------------------------------------------------------------------
 
 I enjoy working with data to find and deliver insights, solve business problems, and build tools that help people work more efficiently. I moved into data science after 10+ years working in public policy and public relations.
